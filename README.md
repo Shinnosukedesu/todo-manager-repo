@@ -1,5 +1,5 @@
 # todo-manager-repo
- Simple todo list manager script with tasks tracking
+
 
 
 
